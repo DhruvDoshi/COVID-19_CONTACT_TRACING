@@ -1,0 +1,2 @@
+deviceName = device6
+address = address6
