@@ -1,5 +1,3 @@
-Course project
-
 <h2 align="center">Course Project</h2>
 
 ---
